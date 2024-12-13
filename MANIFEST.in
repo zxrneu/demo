@@ -1,0 +1,10 @@
+include LICENSE
+include README.md
+include src/demo/py.typed
+include src/demo/*.pyi
+recursive-include src/demo/include *.h
+recursive-include src/demo/math *.c
+recursive-include src/demo/sorting *.c
+recursive-include src/demo/searching *.c
+recursive-include examples *.py
+recursive-include tests *.py 

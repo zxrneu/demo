@@ -1,0 +1,10 @@
+.idea/.gitignore
+.idea/.name
+.idea/adddemo.iml
+.idea/algo.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
+.vscode/c_cpp_properties.json
+.vscode/settings.json
